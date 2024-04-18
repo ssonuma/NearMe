@@ -62,7 +62,8 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
-![Screenshot 2024-04-15 191619](https://github.com/ssonuma/NearMe/assets/150653312/787b7e4a-e040-4246-bd6f-1b5a3b8d0ecb)
+![Screenshot 2024-04-15 191619](https://github.com/ssonuma/NearMe/assets/150653312/3862acbe-15cd-4e2f-86c2-af9a510948b7)
+
 
 
 
